@@ -13,4 +13,4 @@ This GitHub repository contains a simple web page that showcases Random jokes fe
 
 ## Demo
 
-Check out the live demo [here]()
+Check out the live demo [here](https://joke-generator-manu.netlify.app/)
