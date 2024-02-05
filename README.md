@@ -8,7 +8,7 @@ This GitHub repository contains a simple web page that showcases Random jokes fe
 
 ## Features
 
-- **Responsive:** Dictionary Application is responsive to various screen sizes.
+- **Responsive:** Joke generator Application is responsive to various screen sizes.
 - **Attractive:** The page is built using Custom CSS styling to provide a user-friendly and visually appealing experience.
 
 ## Demo
